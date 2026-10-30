@@ -1,5 +1,5 @@
 {
   "version": "1.1.0",
-  "download_url": "https://github.com/quoctienkdqt-coder/Mau22-Updates/releases/download/V1.1.0/Mau22_KT_Pro.exe",
+  "download_url": "https://github.com/quoctienkdqt-coder/Mau22-Updates/releases/download/1.1.0/Mau22_KT_Pro.exe",
   "release_notes": "- Tra cứu RFMO trực tuyến 100% thời gian thực (tốc độ mở app tức thì)\n- Chuẩn hóa form xuất Word theo đúng Mẫu 20.KT Công báo chính thức\n- Tích hợp cấu hình API Key Google Gemini và APIZ ngay trên thanh công cụ\n- Bảo toàn triệt để số 0 ở đầu các mã HS và số hồ sơ\n- Tinh gọn giao diện với Trợ lý Cá Heo AI (F1)"
 }
