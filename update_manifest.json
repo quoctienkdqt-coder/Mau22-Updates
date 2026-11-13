@@ -1,7 +1,7 @@
 {
-    "version": "1.2.9",
-    "download_url": "https://github.com/quoctienkdqt-coder/Mau22-Updates/releases/download/1.2.9/mysetup.exe",
-    "sha256": "0b9bed5d27b186f8cea9421847fdadcf1b57f0fa5f23ccd60999dd7ed2e1bf8c",
-    "signature": "WAYrSCXrjxnkuGrLaPXvmN1AzRkTvy0p28HkXWrADDbq0UD1MACAovsvd6aaXGT/6NZESOp4LDQEtGt6QW7RBw==",
-    "release_notes": "- MỚI: Chế độ \"🤖 Đội AI\" (bật sẵn, tắt bằng công tắc trên thanh công cụ): AI đọc chứng từ một lượt, phần mềm kiểm tra lại bằng lớp chữ của PDF rồi lắp ráp Mẫu 22 theo quy tắc cố định - nhanh hơn, chi phí AI không cao hơn cách cũ\n- Ô do phần mềm tự điền hoặc tự sửa được tô màu: ĐỎ = sai khác cần xử lý, VÀNG = nghi ngờ nên soi lại, XANH = đã tự sửa; rê chuột vào ô để xem lý do\n- MỚI: Nút \"🤖 Jarvis\" hỏi lại những điểm phần mềm chưa chắc chắn (không tự bật cửa sổ, bấm nút khi cần)\n- Tra cứu RFMO / IUU / AIS nhanh hơn nhiều: danh sách IUU tải một lần cho cả hồ sơ thay vì tra từng tàu\n- Sau khi tra RFMO, phần mềm đối chiếu tên tàu / IMO / hô hiệu với CSDL RFMO: chỉ lệch ký tự dễ nhìn nhầm (O/0, Q/G, 6/8...) thì chọn theo CSDL và tô VÀNG; khác hẳn thì giữ theo chứng từ và tô ĐỎ\n- Bỏ cảnh báo đỏ oan \"LỆCH MÃ RFMO\" với tàu IOTC / ICCAT / IATTC (chứng từ ghi số đăng ký quốc gia, CSDL ghi mã riêng của tổ chức)\n- Số đăng ký RFMO: không lấy nhầm số FFA VID nằm trong số giấy phép, dùng số đăng ký quốc gia\n- Bảng Giấy phép chuyển tải liệt kê cả giấy phép của tàu nhận chuyển tải; cảnh báo khi ngày chuyển tải nằm ngoài hiệu lực giấy phép tàu nhận\n- Chuẩn hóa dữ liệu theo bộ quy tắc cố định thay cho từ điển loài cũ (sửa lỗi đổi nhầm \"black marlin\" thành \"Cá đen\")"
+    "version": "1.2.10",
+    "download_url": "https://github.com/quoctienkdqt-coder/Mau22-Updates/releases/download/1.2.10/mysetup.exe",
+    "sha256": "992c4b8db5a819f3c48e51db5aeac40b6789bd2cb55f4439ddd6c30c3658f87d",
+    "signature": "5fkjtdv/82s33u90lf5fRMr6QDLw5E93/SFfp7VyA/8LBOaDJdJyXRUe/pSvEnryecZfAV3wUJqhwji3h14JDQ==",
+    "release_notes": "- Giấy phép tàu Indonesia do TỈNH cấp: nhận đúng cơ quan cấp cả khi giấy phép là bản dịch tiếng Anh (VD \"South Sulawesi Provincial ... One-Stop Integrated Services Office\", \"Governor of South Sulawesi\") -> ghi \"Pemerintah Provinsi Sulawesi Selatan\"\n- Khi giấy phép không ghi rõ tên cơ quan, phần mềm tự nhận tỉnh từ mã tỉnh trong số giấy phép (VD 45.26.7398... -> Sulawesi Selatan, 45.25.7198... -> Sulawesi Utara)\n- Số giấy phép cấp tỉnh (bắt đầu \"45.\") không còn bị ghi nhầm cơ quan cấp là Bộ Thủy sản Indonesia (KKP)"
 }
