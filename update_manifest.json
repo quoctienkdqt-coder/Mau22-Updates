@@ -1,7 +1,7 @@
 {
-    "version": "1.2.10",
-    "download_url": "https://github.com/quoctienkdqt-coder/Mau22-Updates/releases/download/1.2.10/mysetup.exe",
-    "sha256": "992c4b8db5a819f3c48e51db5aeac40b6789bd2cb55f4439ddd6c30c3658f87d",
-    "signature": "5fkjtdv/82s33u90lf5fRMr6QDLw5E93/SFfp7VyA/8LBOaDJdJyXRUe/pSvEnryecZfAV3wUJqhwji3h14JDQ==",
-    "release_notes": "- Giấy phép tàu Indonesia do TỈNH cấp: nhận đúng cơ quan cấp cả khi giấy phép là bản dịch tiếng Anh (VD \"South Sulawesi Provincial ... One-Stop Integrated Services Office\", \"Governor of South Sulawesi\") -> ghi \"Pemerintah Provinsi Sulawesi Selatan\"\n- Khi giấy phép không ghi rõ tên cơ quan, phần mềm tự nhận tỉnh từ mã tỉnh trong số giấy phép (VD 45.26.7398... -> Sulawesi Selatan, 45.25.7198... -> Sulawesi Utara)\n- Số giấy phép cấp tỉnh (bắt đầu \"45.\") không còn bị ghi nhầm cơ quan cấp là Bộ Thủy sản Indonesia (KKP)"
+    "version": "1.2.11",
+    "download_url": "https://github.com/quoctienkdqt-coder/Mau22-Updates/releases/download/1.2.11/mysetup.exe",
+    "sha256": "17ee57fbf9c21871b06ae5d85260681fa937e485babfc245ae068f30925b78ac",
+    "signature": "H6XGWrtb3o8gnmIewKAM9AwD3EzNLHV1Koq2UsVJmcHHYhhujNtf7GjaulvchBV4rPY7iQFAG/KAoEsUhpd8CA==",
+    "release_notes": "- MỚI: \"AI của Mẫu 22\" – dùng AI không cần API key, không cần thẻ Visa. Vào Bản quyền -> Cổng AI mặc định -> chọn \"AI của Mẫu 22 (ví trả theo lượng dùng)\".\n- Mỗi bộ hồ sơ trừ đúng chi phí AI thật (hồ sơ ít trang tốn ít, nhiều trang tốn nhiều). Chạy xong hiện ngay \"Chi phí AI bộ này … · Ví còn …\"; mục Bản quyền hiện số dư ví.\n- Nạp ví bằng chuyển khoản VietQR trên trang web Mẫu 22 (Mua key -> tab Nạp ví AI, nhập mã máy). Xem chi tiết chi phí từng bộ hồ sơ trong trang Tài khoản trên web.\n- Vẫn dùng được Google Gemini bằng API key riêng hoặc cổng APIZ như trước – không thay đổi gì nếu bạn không chọn AI của Mẫu 22."
 }
