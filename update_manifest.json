@@ -1,7 +1,7 @@
 {
     "version": "1.2.13",
     "download_url": "https://github.com/quoctienkdqt-coder/Mau22-Updates/releases/download/1.2.13/mysetup.exe",
-    "sha256": "7ea0d8070c3b76263daecb75d8625a7b0d2ab46d90714d58d7b2318d33752f78",
-    "signature": "qq83BMrYB6xNCDQsJHWiPZHX+LaBJx00CUzDCPVHzaCdkSRtGA3vBDJkAAZYx6bhxLQlhtcZU+VoZakGhtEYAA==",
-    "release_notes": "- Số hóa Mẫu 22 (Luồng 2) khi bật \"Đội AI\": đọc thẳng PDF Mẫu 22 bằng phần mềm, KHÔNG cần AI, không tốn phí, vài giây/file. Đọc được cả Mẫu 22 kiểu cũ (bảng không có cột TT, chuyển tải / container viết dạng đoạn văn). PDF dạng ảnh scan mới chuyển sang AI.\n- Chữ trên Mẫu 22 đã nộp (tên tàu, cơ quan cấp, khu vực, cảng...) được giữ nguyên văn; sửa lỗi dính chữ, mất dòng, ghép sai giấy phép khi đối chiếu PDF DVC/eCDT.\n- Bảo mật: mục \"Báo cáo đánh giá chi phí API\" chỉ hiển thị lịch sử của CHÍNH MÁY BẠN."
+    "sha256": "c06cd4040c1a7c6aca6f949baff62093f8e37e503ccc06b3ab258a87aafd7917",
+    "signature": "3WjrbrqL1OFNc7hdui3Qm2V0tcU/EhdfCgHpLMkZ+8IA+1TV71AdGGWl9ghTMfeS6UFkY9TVAuvZhw62mFc3AQ==",
+    "release_notes": "- Số hóa Mẫu 22 (Luồng 2) khi bật \"Đội AI\": đọc thẳng PDF Mẫu 22 bằng phần mềm, KHÔNG cần AI, không tốn phí, vài giây/file. Đọc được cả Mẫu 22 kiểu cũ (bảng không có cột TT, chuyển tải / container viết dạng đoạn văn). PDF dạng ảnh scan mới chuyển sang AI. Lượt đọc bằng code vẫn ghi nhật ký (0đ) để theo dõi độ chính xác.\n- Chữ trên Mẫu 22 đã nộp (tên tàu, cơ quan cấp, khu vực, cảng...) được giữ nguyên văn; sửa lỗi dính chữ, mất dòng, ghép sai giấy phép khi đối chiếu PDF DVC/eCDT.\n- Học IMO tàu chở container: sửa IMO tàu chở 1 lần, các hồ sơ sau gặp lại tàu đó (kể cả kèm số chuyến) tự điền đúng.\n- Bảo mật: mục \"Báo cáo đánh giá chi phí API\" chỉ hiển thị lịch sử của CHÍNH MÁY BẠN."
 }
