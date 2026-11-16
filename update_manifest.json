@@ -1,7 +1,7 @@
 {
-    "version": "1.2.12",
-    "download_url": "https://github.com/quoctienkdqt-coder/Mau22-Updates/releases/download/1.2.12/mysetup.exe",
-    "sha256": "d3a17516902da31a6576732d35434039a64ea964b2244274c7f6f7f6c10e1a31",
-    "signature": "nxcSDFVVFzRrgch3MVNf8TW6oD389c85H+cIdo1SZYsPOHJdgRlrbcHqweS2DOnLrlk29Wb6jPH2meoV9eXDBA==",
-    "release_notes": "- Bộ cài mới chỉ kèm file Danh_sach_cong_ty.xlsx TRỐNG (mẫu 4 cột: Tên công ty, Địa chỉ, Người đại diện, Số điện thoại) – bạn tự điền danh sách công ty của mình.\n- Danh sách công ty bạn đã nhập trên máy được GIỮ NGUYÊN khi cập nhật.\n- Ví AI (\"AI của Mẫu 22\"): chạy ổn định với hồ sơ nhiều trang (AI suy nghĩ lâu), tải chứng từ nhanh hơn."
+    "version": "1.2.13",
+    "download_url": "https://github.com/quoctienkdqt-coder/Mau22-Updates/releases/download/1.2.13/mysetup.exe",
+    "sha256": "5914771e3eda02d9d6415379e62fa13fbae531d5b46efaa70c876939d04f093e",
+    "signature": "31XP/YbBZWUFFgoG/sy7RlS3HLGFUmeF7CwVWgdmd5/KuvS5UA2YxkNYC51dewafgRounlTKBQN5snp5CdKEBw==",
+    "release_notes": "- Bảo mật: mục \"Báo cáo đánh giá chi phí API\" chỉ hiển thị lịch sử của CHÍNH MÁY BẠN (dữ liệu được máy chủ Mẫu 22 lọc theo key bản quyền và mã máy). Không ai xem được dữ liệu của máy khác.\n- Bỏ nút mở Google Sheet tổng trên máy khách."
 }
