@@ -1,7 +1,7 @@
 {
     "version": "1.2.13",
     "download_url": "https://github.com/quoctienkdqt-coder/Mau22-Updates/releases/download/1.2.13/mysetup.exe",
-    "sha256": "5914771e3eda02d9d6415379e62fa13fbae531d5b46efaa70c876939d04f093e",
-    "signature": "31XP/YbBZWUFFgoG/sy7RlS3HLGFUmeF7CwVWgdmd5/KuvS5UA2YxkNYC51dewafgRounlTKBQN5snp5CdKEBw==",
-    "release_notes": "- Bảo mật: mục \"Báo cáo đánh giá chi phí API\" chỉ hiển thị lịch sử của CHÍNH MÁY BẠN (dữ liệu được máy chủ Mẫu 22 lọc theo key bản quyền và mã máy). Không ai xem được dữ liệu của máy khác.\n- Bỏ nút mở Google Sheet tổng trên máy khách."
+    "sha256": "7ea0d8070c3b76263daecb75d8625a7b0d2ab46d90714d58d7b2318d33752f78",
+    "signature": "qq83BMrYB6xNCDQsJHWiPZHX+LaBJx00CUzDCPVHzaCdkSRtGA3vBDJkAAZYx6bhxLQlhtcZU+VoZakGhtEYAA==",
+    "release_notes": "- Số hóa Mẫu 22 (Luồng 2) khi bật \"Đội AI\": đọc thẳng PDF Mẫu 22 bằng phần mềm, KHÔNG cần AI, không tốn phí, vài giây/file. Đọc được cả Mẫu 22 kiểu cũ (bảng không có cột TT, chuyển tải / container viết dạng đoạn văn). PDF dạng ảnh scan mới chuyển sang AI.\n- Chữ trên Mẫu 22 đã nộp (tên tàu, cơ quan cấp, khu vực, cảng...) được giữ nguyên văn; sửa lỗi dính chữ, mất dòng, ghép sai giấy phép khi đối chiếu PDF DVC/eCDT.\n- Bảo mật: mục \"Báo cáo đánh giá chi phí API\" chỉ hiển thị lịch sử của CHÍNH MÁY BẠN."
 }
