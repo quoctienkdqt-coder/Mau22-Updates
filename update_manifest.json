@@ -1,7 +1,7 @@
 {
     "version": "1.2.13",
     "download_url": "https://github.com/quoctienkdqt-coder/Mau22-Updates/releases/download/1.2.13/mysetup.exe",
-    "sha256": "c06cd4040c1a7c6aca6f949baff62093f8e37e503ccc06b3ab258a87aafd7917",
-    "signature": "3WjrbrqL1OFNc7hdui3Qm2V0tcU/EhdfCgHpLMkZ+8IA+1TV71AdGGWl9ghTMfeS6UFkY9TVAuvZhw62mFc3AQ==",
-    "release_notes": "- Số hóa Mẫu 22 (Luồng 2) khi bật \"Đội AI\": đọc thẳng PDF Mẫu 22 bằng phần mềm, KHÔNG cần AI, không tốn phí, vài giây/file. Đọc được cả Mẫu 22 kiểu cũ (bảng không có cột TT, chuyển tải / container viết dạng đoạn văn). PDF dạng ảnh scan mới chuyển sang AI. Lượt đọc bằng code vẫn ghi nhật ký (0đ) để theo dõi độ chính xác.\n- Chữ trên Mẫu 22 đã nộp (tên tàu, cơ quan cấp, khu vực, cảng...) được giữ nguyên văn; sửa lỗi dính chữ, mất dòng, ghép sai giấy phép khi đối chiếu PDF DVC/eCDT.\n- Học IMO tàu chở container: sửa IMO tàu chở 1 lần, các hồ sơ sau gặp lại tàu đó (kể cả kèm số chuyến) tự điền đúng.\n- Bảo mật: mục \"Báo cáo đánh giá chi phí API\" chỉ hiển thị lịch sử của CHÍNH MÁY BẠN."
+    "sha256": "8a8e3d0bbdb15ec0260786cf61c4b8259230bc58b54df668985baabe1d6c588e",
+    "signature": "TgDCVu6IUlSsdJLJ44XR+QKByMdhdibmMno3w0IJijwAeL9CuFfGIOkhNKuds1iMyiP+xPPlsVvizX/sm4DmCA==",
+    "release_notes": "- Số hóa Mẫu 22 (Luồng 2) khi bật \"Đội AI\": đọc thẳng PDF Mẫu 22 bằng phần mềm, KHÔNG cần AI, không tốn phí, vài giây/file. Đọc được cả Mẫu 22 kiểu cũ (bảng không có cột TT, chuyển tải / container viết dạng đoạn văn). PDF dạng ảnh scan mới chuyển sang AI. Lượt đọc bằng code vẫn ghi nhật ký (0đ) để theo dõi độ chính xác.\n- Sửa lệch dòng tàu – giấy phép khi Word ngắt 1 dòng giấy phép thành 2 dòng (Mẫu 22 kiểu cũ).\n- Chữ trên Mẫu 22 đã nộp (tên tàu, cơ quan cấp, khu vực, cảng...) được giữ nguyên văn; sửa lỗi dính chữ, mất dòng, ghép sai giấy phép khi đối chiếu PDF DVC/eCDT.\n- Học IMO tàu chở container: sửa IMO tàu chở 1 lần, các hồ sơ sau gặp lại tàu đó (kể cả kèm số chuyến) tự điền đúng.\n- Bảo mật: mục \"Báo cáo đánh giá chi phí API\" chỉ hiển thị lịch sử của CHÍNH MÁY BẠN."
 }
