@@ -1,7 +1,7 @@
 {
-    "version": "1.2.13",
-    "download_url": "https://github.com/quoctienkdqt-coder/Mau22-Updates/releases/download/1.2.13/mysetup.exe",
-    "sha256": "8a8e3d0bbdb15ec0260786cf61c4b8259230bc58b54df668985baabe1d6c588e",
-    "signature": "TgDCVu6IUlSsdJLJ44XR+QKByMdhdibmMno3w0IJijwAeL9CuFfGIOkhNKuds1iMyiP+xPPlsVvizX/sm4DmCA==",
-    "release_notes": "- Số hóa Mẫu 22 (Luồng 2) khi bật \"Đội AI\": đọc thẳng PDF Mẫu 22 bằng phần mềm, KHÔNG cần AI, không tốn phí, vài giây/file. Đọc được cả Mẫu 22 kiểu cũ (bảng không có cột TT, chuyển tải / container viết dạng đoạn văn). PDF dạng ảnh scan mới chuyển sang AI. Lượt đọc bằng code vẫn ghi nhật ký (0đ) để theo dõi độ chính xác.\n- Sửa lệch dòng tàu – giấy phép khi Word ngắt 1 dòng giấy phép thành 2 dòng (Mẫu 22 kiểu cũ).\n- Chữ trên Mẫu 22 đã nộp (tên tàu, cơ quan cấp, khu vực, cảng...) được giữ nguyên văn; sửa lỗi dính chữ, mất dòng, ghép sai giấy phép khi đối chiếu PDF DVC/eCDT.\n- Học IMO tàu chở container: sửa IMO tàu chở 1 lần, các hồ sơ sau gặp lại tàu đó (kể cả kèm số chuyến) tự điền đúng.\n- Bảo mật: mục \"Báo cáo đánh giá chi phí API\" chỉ hiển thị lịch sử của CHÍNH MÁY BẠN."
+    "version": "1.2.14",
+    "download_url": "https://github.com/quoctienkdqt-coder/Mau22-Updates/releases/download/1.2.14/mysetup.exe",
+    "sha256": "7544bc6047bdd87a1d170576e415e694c549411ea21d0436944878d848c6eeec",
+    "signature": "0rkk9zkeZ8Brx7oqSnm7VDPiWXCF8VZBfep6ByI8lAuPU8aFF3zttIKvbaK5lxZyRxXHCXZL0erxR0BBz9EhDw==",
+    "release_notes": "- Đội AI: sửa lỗi bỏ trống giấy phép khai thác khi giấy phép không in tên tàu, chỉ in số đăng ký tàu (VD giấy phép biển cả Sri Lanka \"Registration Number of the Boat\"). Nay ghép giấy phép với tàu theo số đăng ký RFMO / quốc gia.\n- Đội AI: sửa lỗi ô \"Đối tượng được phép khai thác\" lấy theo loài sản phẩm thay vì danh sách loài trên giấy phép (hệ quả của lỗi trên). Loài được phép được chép nguyên văn, giữ cả tên địa phương trong ngoặc.\n- Hồ sơ chỉ có 1 tàu mà giấy phép không có thông tin tàu nào: tự gắn giấy phép cho tàu đó và tô vàng để kiểm tra lại."
 }
